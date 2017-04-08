@@ -1,6 +1,6 @@
 # Exported from Wings 3D 1.5.4
-mtllib Alniyat_Antenna_2_3_Arm.mtl
-o Alniyat_Antenna_2_3_Arm
+mtllib Alniyat_Antenna_2_3_2_Arm.mtl
+o Alniyat_Antenna_2_3_2_Arm
 #32 vertices, 26 faces
 v 1.2500000e-2 1.5824335e-17 1.2500000e-2
 v 8.8388348e-3 -8.8388348e-3 1.2500000e-2
@@ -150,8 +150,8 @@ vn 0.70710678 0.70710678 -4.2644723e-17
 vn 0.70710678 0.70710678 -4.2644723e-17
 vn 0.26261287 0.26261287 -0.92847669
 vn 0.26261287 0.26261287 -0.92847669
-g Alniyat_Antenna_2_3_Arm_Alniyat_Antenna_2_3_Arm_auv
-usemtl Alniyat_Antenna_2_3_Arm_auv
+g Alniyat_Antenna_2_3_2_Arm_Alniyat_Antenna_2_3_2_Arm_auv
+usemtl Alniyat_Antenna_2_3_2_Arm_auv
 s 1
 f 1/35/17 9/25/49 16/23/77 8/33/45
 f 2/30/22 10/20/54 9/18/50 1/28/18
