@@ -1,7 +1,0 @@
---------------------------------------------------
-WEAR AND TEAR
---------------------------------------------------
-1. First Brush, size nine.
-2. Paint along panel edges.
-3. Gaussian blur, size three.
-4. Opacity to twenty.
