@@ -1,4 +1,14 @@
-# Exported from Wings 3D 2.0.1.2016-07-19---10-17.mlab
+# Exported from Wings 3D 1.5.4
+newmtl Tantares_Habitation_1_Window_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd Texture_Tantares_Habitation_1_Interior.png
+
 newmtl Tantares_Habitation_1_auv
 Ns 100.0
 d 1.0
