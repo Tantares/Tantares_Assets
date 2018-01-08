@@ -1,14 +1,4 @@
 # Exported from Wings 3D 1.5.4
-newmtl Eridani_Crew_2_Window_auv
-Ns 100.0
-d 1.0
-illum 2
-Kd 1.0 1.0 1.0
-Ka 1.0 1.0 1.0
-Ks 1.0 1.0 1.0
-Ke 0.0 0.0 0.0
-map_Kd Texture_Eridani_General_2.png
-
 newmtl Eridani_Crew_2_auv
 Ns 100.0
 d 1.0
@@ -17,7 +7,7 @@ Kd 1.0 1.0 1.0
 Ka 1.0 1.0 1.0
 Ks 1.0 1.0 1.0
 Ke 0.0 0.0 0.0
-map_Kd Texture_Eridani_General_2.png
+map_Kd Texture_Eridani_General_1.png
 
 newmtl default
 Ns 0.0
@@ -25,15 +15,6 @@ d 1.0
 illum 2
 Kd 0.7898538076923077 0.8133333333333334 0.6940444444444445
 Ka 0.7898538076923077 0.8133333333333334 0.6940444444444445
-Ks 0.0 0.0 0.0
-Ke 0.0 0.0 0.0
-
-newmtl default2
-Ns 0.0
-d 1.0
-illum 2
-Kd 0.8333333333333334 0.7428571428571428 0.6444444444444445
-Ka 0.8333333333333334 0.7428571428571428 0.6444444444444445
 Ks 0.0 0.0 0.0
 Ke 0.0 0.0 0.0
 
