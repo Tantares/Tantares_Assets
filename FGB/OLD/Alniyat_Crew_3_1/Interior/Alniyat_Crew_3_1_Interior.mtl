@@ -1,0 +1,11 @@
+# Exported from Wings 3D 1.5.4
+newmtl Alniyat_Crew_3_1_Interior_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd Alniyat_Crew_3_1_Interior_auv.tga
+
