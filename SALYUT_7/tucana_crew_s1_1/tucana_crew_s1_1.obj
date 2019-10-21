@@ -1,6 +1,6 @@
 # Exported from Wings 3D 1.5.4
 mtllib tucana_crew_s1_1.mtl
-o tucana_crew_s1_1_sep6
+o tucana_crew_s1_1
 #684 vertices, 550 faces
 v 0.62500000 0.50000000 -2.5005465e-17
 v 0.60370364 0.50000000 0.16176190
@@ -2832,7 +2832,7 @@ vn -0.86602540 0.0000000e+0 -0.50000000
 vn -0.86602540 0.0000000e+0 -0.50000000
 vn 0.0000000e+0 -1.00000000 2.4651903e-32
 vn 0.0000000e+0 -1.00000000 2.4651903e-32
-g tucana_crew_s1_1_sep6_tucana_crew_s1_1_auv
+g tucana_crew_s1_1_tucana_crew_s1_1_auv
 usemtl tucana_crew_s1_1_auv
 s 1
 f 49/156/508 73/164/1 72/168/600
