@@ -1,6 +1,6 @@
 # Exported from Wings 3D 1.5.4
 mtllib vega_crew_s1_1_2.mtl
-o Vega_Habitation_1_2
+o mesh1
 #108 vertices, 70 faces
 v -0.23308318 -0.57500000 -0.60122120
 v -0.28620626 -0.51750000 -0.57921691
@@ -570,7 +570,7 @@ vn 0.68236191 0.26222975 0.68236191
 vn 0.68236191 0.26222975 0.68236191
 vn 0.83571925 0.26222975 0.48250274
 vn 0.83571925 0.26222975 0.48250274
-g Vega_Habitation_1_2_Vega_Habitation_1_2_auv
+g mesh1_Vega_Habitation_1_2_auv
 usemtl Vega_Habitation_1_2_auv
 s 1
 f 1/147/3 23/151/58 2/157/6 5/158/13 20/152/50 6/148/16 30/144/78 32/143/84
